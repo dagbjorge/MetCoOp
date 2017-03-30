@@ -1,4 +1,4 @@
-Tekst i en vilkårlig ny fil.
+Tekst i en vilkaarlig ny fil.
 
 endret litt til
 for andre gang, eller var det tredje
