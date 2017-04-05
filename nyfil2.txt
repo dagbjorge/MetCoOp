@@ -4,3 +4,5 @@ B
 Tekst i en vilkårlig ny fil.
 
 B
+
+Skal committes, men ikke unstages
